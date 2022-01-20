@@ -5,12 +5,12 @@
 	<parent>
 		<groupId>com.example</groupId>
 		<artifactId>demo</artifactId>
-		<version>1.0.1</version>
+		<version>2.0.0</version>
 		<relativePath>../pom.xml</relativePath>
 	</parent>
 	<groupId>com.example.demo</groupId>
 	<artifactId>mod2</artifactId>
-	<version>1.0.1</version>
+	<version>2.0.0</version>
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
